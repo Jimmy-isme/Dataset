@@ -1,4 +1,16 @@
-# Dataset
+# image_process.py:
+Used to preprocess the original PM2.5 images. Transform them into Dark Channel Prior(DCP) and Saturation Map(SM).
+
+# DDPM_CNN.py:
+Architecture of the proposed neuro network modle.
+
+# training_DDPM_CNN.ipynb:
+Training progress.
+
+# inference_DDPM_CNN.ipynb:
+Inference.
+
+# Dataset:
 金門：
 
 https://drive.google.com/file/d/1iKAmixFldnEaxHDB6HTu_2UEIq1SsRn_/view?usp=sharing
